@@ -1,3 +1,9 @@
+---
+layout: default
+title: Message Handling
+nav_order: 5
+---
+
 # 📨 Message Handling System
 
 **Document:** Message Handling API Specification  

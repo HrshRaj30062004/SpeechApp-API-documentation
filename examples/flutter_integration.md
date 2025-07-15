@@ -1,3 +1,10 @@
+---
+layout: default
+title: Flutter Integration
+parent: Examples
+nav_order: 5
+---
+
 # 🔧 Flutter Integration Examples
 
 **Document:** Complete Flutter Integration Guide  

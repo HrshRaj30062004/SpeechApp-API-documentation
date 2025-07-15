@@ -1,3 +1,10 @@
+---
+layout: default
+title: Authentication Examples
+parent: Examples
+nav_order: 1
+---
+
 # 🔐 Authentication Examples
 
 **Document:** Authentication API Usage Examples  

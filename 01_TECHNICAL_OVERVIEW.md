@@ -1,3 +1,9 @@
+---
+layout: default
+title: Technical Overview
+nav_order: 1
+---
+
 # 🔧 Technical Implementation Overview
 
 **Document:** Technical Architecture & Implementation Details  

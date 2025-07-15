@@ -1,0 +1,28 @@
+theme: minima
+title: SpeechBot API Documentation
+description: Comprehensive API documentation for the SpeechBot platform
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - 01_TECHNICAL_OVERVIEW.md
+  - 02_AUTHENTICATION.md
+  - 03_USER_PREFERENCES.md
+  - 04_CHAT_MANAGEMENT.md
+  - 05_MESSAGE_HANDLING.md
+  - 06_DATA_EXPORT.md
+  - 07_ERROR_HANDLING.md
+
+# Collections
+collections:
+  examples:
+    output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

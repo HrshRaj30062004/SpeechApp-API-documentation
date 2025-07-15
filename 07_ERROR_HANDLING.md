@@ -1,3 +1,9 @@
+---
+layout: default
+title: Error Handling
+nav_order: 7
+---
+
 # ❌ Error Handling & Status Codes
 
 **Document:** Error Handling & HTTP Status Codes Reference  

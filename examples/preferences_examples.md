@@ -1,3 +1,10 @@
+---
+layout: default
+title: Preferences Examples
+parent: Examples
+nav_order: 3
+---
+
 # ⚙️ User Preferences API Examples
 
 **Document:** User Preferences Management Examples  

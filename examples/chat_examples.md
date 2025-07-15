@@ -1,3 +1,10 @@
+---
+layout: default
+title: Chat Examples
+parent: Examples
+nav_order: 2
+---
+
 # 💬 Chat & Messages API Examples
 
 **Document:** Chat and Message Management Examples  

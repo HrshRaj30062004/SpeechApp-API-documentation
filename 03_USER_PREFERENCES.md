@@ -1,3 +1,9 @@
+---
+layout: default
+title: User Preferences
+nav_order: 3
+---
+
 # ⚙️ User Preferences Management
 
 **Document:** User Preferences API Specification  
